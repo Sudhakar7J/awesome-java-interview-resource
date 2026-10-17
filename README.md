@@ -3,6 +3,7 @@ Best collection of Java Interview resources including books, courses, interview 
 
 ## Best Java Interview Prep Courses
 - [Grokking the System Design Interview](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-system-design-interview)
+- [CheatsheetKit Java / Spring Boot Interview Pack](https://cheatsheetkit.store/packs/java-spring-boot/) - PDF pack with 360 questions and model answers. Paid, free frontend sample.
 - [Java Interview Guide: 200+ Interview Questions and Answers](https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fjava-interview-questions-and-answers%2F)
 - [Grokking the Coding Interview: Patterns for Coding Questions](https://designgurus.org/link/84Y9hP?url=https%3A%2F%2Fdesigngurus.org%2Fcourse%3Fcourseid%3Dgrokking-the-coding-interview)
 - [Grokking the Object-Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424?affiliate_id=5073518643380224)
